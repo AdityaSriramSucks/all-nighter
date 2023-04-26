@@ -1,0 +1,42 @@
+[
+  {
+    "uuid": "bc9bfbd5-8629-38c5-bdbe-bc0a2870260f",
+    "name": "Evan8709",
+    "created": "2023-04-21 14:03:00 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "dc849007-75a8-3f5b-abc1-f969b8aedee3",
+    "name": "RealMe",
+    "created": "2023-04-20 20:35:30 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "30dbbbbf-8732-483e-b748-f1877cbf2a0b",
+    "name": "TurtleGod7",
+    "created": "2023-04-21 18:18:42 +0000",
+    "source": "Kid_toucher23",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "2a1dbdad-4c67-3be9-94f7-29e916d930b4",
+    "name": "@a",
+    "created": "2023-04-21 18:04:44 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "gamemode 1"
+  },
+  {
+    "uuid": "54eb5682-dd57-382f-9e0e-52359583ba11",
+    "name": "Deez",
+    "created": "2023-04-21 18:51:54 +0000",
+    "source": "Kid_toucher23",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
